@@ -1,7 +1,7 @@
 # MyGame — 3인칭 캐릭터 컨트롤러 & 씬 연출
 
 Unity로 처음 만든 학습 프로젝트. 3인칭 캐릭터의 이동·점프·카메라·애니메이션을 직접 구현하고,
-URP 포스트프로세싱과 HDRI 스카이박스로 **저녁 항구** 톤의 씬을 연출했다.
+URP 포스트프로세싱과 HDRI 스카이박스로 **저녁 항구** 톤의 씬을 연출
 
 <!-- 스크린샷: Play 모드에서 Cmd+Shift+4 로 캡처 → Docs/images/ 에 저장 후 아래 경로 수정 -->
 <!-- ![gameplay](Docs/images/gameplay.png) -->
@@ -66,4 +66,4 @@ Docs/
 - 스카이박스 HDRI: [Poly Haven](https://polyhaven.com) (CC0)
 - 스카이박스 컨셉 실험: [Blockade Labs Skybox AI](https://skybox.blockadelabs.com)
 
-> 학습 프로젝트입니다. 스크립트 작성·디버깅에 AI 페어프로그래밍을 활용
+> 학습 프로젝트. 스크립트 작성·디버깅에 AI 페어프로그래밍을 활용
