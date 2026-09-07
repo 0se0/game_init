@@ -66,4 +66,4 @@ Docs/
 - 스카이박스 HDRI: [Poly Haven](https://polyhaven.com) (CC0)
 - 스카이박스 컨셉 실험: [Blockade Labs Skybox AI](https://skybox.blockadelabs.com)
 
-> 학습 프로젝트입니다. 스크립트 작성·디버깅에 AI 페어프로그래밍을 활용했고, 코드 내용은 직접 이해·검토했습니다.
+> 학습 프로젝트입니다. 스크립트 작성·디버깅에 AI 페어프로그래밍을 활용
